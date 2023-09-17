@@ -49,17 +49,6 @@ SSAFY 8기 2학기 공통 프로젝트
 내가 속한 모임별로 특별한 추억들로
 채워 가보세요 :)
 
-## 🌞 팀원 소개
-### 유쾌한 반란
-호방한 사람들이 될 서울 5반 5조
-
-- 박귀렬 - BackEnd, 팀장
-- 이인재 - BackEnd
-- 강은진 - BackEnd
-- 김수빈 - FrontEnd
-- 이정범 - FrontEnd
-- 서철원 - FrontEnd
-
 ## ✔️ 아키텍처 구성도
 ![architecture](docs/img/architecture.png)
 
